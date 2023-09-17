@@ -25,8 +25,8 @@ int is_delim(char c, char *delim)
 		{
 			return (1);
 		}
-	return (0);
 	}
+	return (0);
 }
 
 /**
